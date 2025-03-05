@@ -43,4 +43,3 @@ cargo run
 - [Rust标准库文档](https://doc.rust-lang.org/std/)
 - [Cargo文档](https://doc.rust-lang.org/cargo/)
 - [Rustlings](https://github.com/rust-lang/rustlings) - Rust练习题
-# FromZero2Sui
